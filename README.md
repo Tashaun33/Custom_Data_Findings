@@ -1,3 +1,2 @@
+This is my wonderful project, Welcome
 
-
-1. In VS Code, select **File** -> **Open Folder**.
