@@ -1,4 +1,5 @@
 
 the legacy of my wonderful project starts... Welcome,,,,
-my project was going tobe a custom but i dont think i will have the time.
+my project is a clear view into Car Price analysis, with discoveries and findinds using DATA analystics.
+Facts and statistics that get you in the driving seat when it comes to an ideal or simple happiness.
 
